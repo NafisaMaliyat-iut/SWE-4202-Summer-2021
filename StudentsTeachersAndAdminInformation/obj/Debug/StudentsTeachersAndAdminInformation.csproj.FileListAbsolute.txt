@@ -1,0 +1,22 @@
+D:\OOC I\StudentsTeachersAndAdminInformation\bin\Debug\StudentsTeachersAndAdminInformation.exe.config
+D:\OOC I\StudentsTeachersAndAdminInformation\bin\Debug\StudentsTeachersAndAdminInformation.exe
+D:\OOC I\StudentsTeachersAndAdminInformation\bin\Debug\StudentsTeachersAndAdminInformation.pdb
+D:\OOC I\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.csproj.AssemblyReference.cache
+D:\OOC I\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.csproj.SuggestedBindingRedirects.cache
+D:\OOC I\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.Properties.Resources.resources
+D:\OOC I\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.csproj.GenerateResource.cache
+D:\OOC I\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.csproj.CoreCompileInputs.cache
+D:\OOC I\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.exe
+D:\OOC I\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.pdb
+D:\OOC I\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.InfoSystem.resources
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\bin\Debug\StudentsTeachersAndAdminInformation.exe.config
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\bin\Debug\StudentsTeachersAndAdminInformation.exe
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\bin\Debug\StudentsTeachersAndAdminInformation.pdb
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.csproj.AssemblyReference.cache
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.InfoSystem.resources
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.Properties.Resources.resources
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.csproj.GenerateResource.cache
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.csproj.CoreCompileInputs.cache
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.exe
+D:\SWE 4202 LAB 200042133\StudentsTeachersAndAdminInformation\obj\Debug\StudentsTeachersAndAdminInformation.pdb
