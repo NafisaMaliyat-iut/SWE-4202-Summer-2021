@@ -1,0 +1,22 @@
+D:\OOC I\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\OOC I\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\OOC I\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\OOC I\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\OOC I\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\OOC I\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibraryManagementSystem.resources
+D:\OOC I\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\OOC I\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\OOC I\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\OOC I\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\OOC I\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibraryManagementSystem.resources
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\SWE 4202 LAB 200042133\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
