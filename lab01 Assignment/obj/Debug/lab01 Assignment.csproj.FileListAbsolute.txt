@@ -1,0 +1,22 @@
+D:\OOC I\lab01 Assignment\bin\Debug\lab01 Assignment.exe.config
+D:\OOC I\lab01 Assignment\bin\Debug\lab01 Assignment.exe
+D:\OOC I\lab01 Assignment\bin\Debug\lab01 Assignment.pdb
+D:\OOC I\lab01 Assignment\obj\Debug\lab01 Assignment.csproj.AssemblyReference.cache
+D:\OOC I\lab01 Assignment\obj\Debug\lab01 Assignment.csproj.SuggestedBindingRedirects.cache
+D:\OOC I\lab01 Assignment\obj\Debug\lab01_Assignment.Properties.Resources.resources
+D:\OOC I\lab01 Assignment\obj\Debug\lab01 Assignment.csproj.GenerateResource.cache
+D:\OOC I\lab01 Assignment\obj\Debug\lab01 Assignment.csproj.CoreCompileInputs.cache
+D:\OOC I\lab01 Assignment\obj\Debug\lab01 Assignment.exe
+D:\OOC I\lab01 Assignment\obj\Debug\lab01 Assignment.pdb
+D:\OOC I\lab01 Assignment\obj\Debug\lab01_Assignment.GradesApp.resources
+D:\SWE 4202 LAB 200042133\lab01 Assignment\bin\Debug\lab01 Assignment.exe.config
+D:\SWE 4202 LAB 200042133\lab01 Assignment\bin\Debug\lab01 Assignment.exe
+D:\SWE 4202 LAB 200042133\lab01 Assignment\bin\Debug\lab01 Assignment.pdb
+D:\SWE 4202 LAB 200042133\lab01 Assignment\obj\Debug\lab01 Assignment.csproj.AssemblyReference.cache
+D:\SWE 4202 LAB 200042133\lab01 Assignment\obj\Debug\lab01 Assignment.csproj.SuggestedBindingRedirects.cache
+D:\SWE 4202 LAB 200042133\lab01 Assignment\obj\Debug\lab01_Assignment.GradesApp.resources
+D:\SWE 4202 LAB 200042133\lab01 Assignment\obj\Debug\lab01_Assignment.Properties.Resources.resources
+D:\SWE 4202 LAB 200042133\lab01 Assignment\obj\Debug\lab01 Assignment.csproj.GenerateResource.cache
+D:\SWE 4202 LAB 200042133\lab01 Assignment\obj\Debug\lab01 Assignment.csproj.CoreCompileInputs.cache
+D:\SWE 4202 LAB 200042133\lab01 Assignment\obj\Debug\lab01 Assignment.exe
+D:\SWE 4202 LAB 200042133\lab01 Assignment\obj\Debug\lab01 Assignment.pdb
