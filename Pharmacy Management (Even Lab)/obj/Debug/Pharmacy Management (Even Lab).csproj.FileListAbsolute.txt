@@ -1,0 +1,11 @@
+D:\OOC I\Pharmacy Management (Even Lab)\bin\Debug\Pharmacy Management (Even Lab).exe.config
+D:\OOC I\Pharmacy Management (Even Lab)\bin\Debug\Pharmacy Management (Even Lab).exe
+D:\OOC I\Pharmacy Management (Even Lab)\bin\Debug\Pharmacy Management (Even Lab).pdb
+D:\OOC I\Pharmacy Management (Even Lab)\obj\Debug\Pharmacy Management (Even Lab).csproj.AssemblyReference.cache
+D:\OOC I\Pharmacy Management (Even Lab)\obj\Debug\Pharmacy Management (Even Lab).csproj.SuggestedBindingRedirects.cache
+D:\OOC I\Pharmacy Management (Even Lab)\obj\Debug\Pharmacy_Management__Even_Lab_.PharmacyManagementApp.resources
+D:\OOC I\Pharmacy Management (Even Lab)\obj\Debug\Pharmacy_Management__Even_Lab_.Properties.Resources.resources
+D:\OOC I\Pharmacy Management (Even Lab)\obj\Debug\Pharmacy Management (Even Lab).csproj.GenerateResource.cache
+D:\OOC I\Pharmacy Management (Even Lab)\obj\Debug\Pharmacy Management (Even Lab).csproj.CoreCompileInputs.cache
+D:\OOC I\Pharmacy Management (Even Lab)\obj\Debug\Pharmacy Management (Even Lab).exe
+D:\OOC I\Pharmacy Management (Even Lab)\obj\Debug\Pharmacy Management (Even Lab).pdb
