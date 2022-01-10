@@ -1,0 +1,11 @@
+D:\OOC I\Course Enrollment System\obj\Debug\Course Enrollment System.csproj.AssemblyReference.cache
+D:\OOC I\Course Enrollment System\obj\Debug\Course Enrollment System.csproj.SuggestedBindingRedirects.cache
+D:\OOC I\Course Enrollment System\obj\Debug\Course_Enrollment_System.Form1.resources
+D:\OOC I\Course Enrollment System\obj\Debug\Course_Enrollment_System.Properties.Resources.resources
+D:\OOC I\Course Enrollment System\obj\Debug\Course Enrollment System.csproj.GenerateResource.cache
+D:\OOC I\Course Enrollment System\obj\Debug\Course Enrollment System.csproj.CoreCompileInputs.cache
+D:\OOC I\Course Enrollment System\bin\Debug\Course Enrollment System.exe.config
+D:\OOC I\Course Enrollment System\bin\Debug\Course Enrollment System.exe
+D:\OOC I\Course Enrollment System\bin\Debug\Course Enrollment System.pdb
+D:\OOC I\Course Enrollment System\obj\Debug\Course Enrollment System.exe
+D:\OOC I\Course Enrollment System\obj\Debug\Course Enrollment System.pdb

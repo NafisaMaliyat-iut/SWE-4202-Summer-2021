@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf912451-5e49-4443-baa7-b2970580954e": {
+      "ProjectGuid": "bf912451-5e49-4443-baa7-b2970580954e",
+      "DisplayName": "Course Enrollment System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
