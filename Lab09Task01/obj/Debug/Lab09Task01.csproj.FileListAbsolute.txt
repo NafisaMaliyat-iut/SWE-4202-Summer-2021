@@ -1,0 +1,8 @@
+D:\OOC I\Lab09Task01\bin\Debug\Lab09Task03.exe.config
+D:\OOC I\Lab09Task01\bin\Debug\Lab09Task03.exe
+D:\OOC I\Lab09Task01\bin\Debug\Lab09Task03.pdb
+D:\OOC I\Lab09Task01\obj\Debug\Lab09Task01.csproj.AssemblyReference.cache
+D:\OOC I\Lab09Task01\obj\Debug\Lab09Task01.csproj.SuggestedBindingRedirects.cache
+D:\OOC I\Lab09Task01\obj\Debug\Lab09Task01.csproj.CoreCompileInputs.cache
+D:\OOC I\Lab09Task01\obj\Debug\Lab09Task03.exe
+D:\OOC I\Lab09Task01\obj\Debug\Lab09Task03.pdb
