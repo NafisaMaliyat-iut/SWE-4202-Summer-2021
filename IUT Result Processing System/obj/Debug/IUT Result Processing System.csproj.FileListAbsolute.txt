@@ -9,3 +9,14 @@ D:\OOC I\IUT Result Processing System\obj\Debug\IUT Result Processing System.csp
 D:\OOC I\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.CoreCompileInputs.cache
 D:\OOC I\IUT Result Processing System\obj\Debug\IUT Result Processing System.exe
 D:\OOC I\IUT Result Processing System\obj\Debug\IUT Result Processing System.pdb
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\bin\Debug\IUT Result Processing System.exe.config
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\bin\Debug\IUT Result Processing System.exe
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\bin\Debug\IUT Result Processing System.pdb
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.AssemblyReference.cache
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.SuggestedBindingRedirects.cache
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\obj\Debug\IUT_Result_Processing_System.Form1.resources
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\obj\Debug\IUT_Result_Processing_System.Properties.Resources.resources
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.GenerateResource.cache
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\obj\Debug\IUT Result Processing System.csproj.CoreCompileInputs.cache
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\obj\Debug\IUT Result Processing System.exe
+D:\SWE-4202-LAB-200042133\SWE-4202-Summer-2021\IUT Result Processing System\obj\Debug\IUT Result Processing System.pdb

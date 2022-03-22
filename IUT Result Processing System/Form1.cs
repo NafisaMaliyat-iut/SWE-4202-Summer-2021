@@ -29,13 +29,10 @@ namespace IUT_Result_Processing_System
                     var values = line.Split(',');
 
                     dummyStudent.ID = values[0];
-                    values = line.Split(',');
 
                     dummyStudent.Name = values[1];
-                    values = line.Split(',');
 
                     dummyStudent.AttendanceMarks = values[2];
-                    values = line.Split(',');
 
                     string temp;
                     temp = values[3];
@@ -43,34 +40,28 @@ namespace IUT_Result_Processing_System
                         dummyStudent.QuizMarks[0] = 0;
                     else
                         dummyStudent.QuizMarks[0] = Convert.ToInt32(temp);
-                    values = line.Split(',');
 
                     temp = values[4];
                     if (temp == "")
                         dummyStudent.QuizMarks[1] = 0;
                     else
                         dummyStudent.QuizMarks[1] = Convert.ToInt32(temp);
-                    values = line.Split(',');
 
                     temp = values[5];
                     if (temp == "")
                         dummyStudent.QuizMarks[2] = 0;
                     else
                         dummyStudent.QuizMarks[2] = Convert.ToInt32(temp);
-                    values = line.Split(',');
 
                     temp = values[6];
                     if (temp == "")
                         dummyStudent.QuizMarks[3] = 0;
                     else
                         dummyStudent.QuizMarks[3] = Convert.ToInt32(temp); 
-                    values = line.Split(',');
 
                     dummyStudent.MidTermMark = values[7];
-                    values = line.Split(',');
 
                     dummyStudent.SemesterFinalMark = values[8];
-                    values = line.Split(',');
 
                     dummyStudent.VivaMark = values[9];
 
